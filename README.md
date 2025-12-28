@@ -25,7 +25,7 @@ Focused on: clean code · performance · maintainable architecture · great user
 #### 🌐 Web & General Programming
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,wordpress,woocommerce,mysql,postgres,mongodb,git,github,vscode,figma&perline=9" alt="Web & General"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,wordpress,mysql,postgres,mongodb,git,github,vscode,figma&perline=9" alt="Web & General"/>
   </a>
 </p>
 
