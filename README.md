@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Khalil Wesami</h1>
+  <h1>Khalil Wesam</h1>
   
   <p>
     <strong>Full Stack Developer</strong> • 8+ years of experience
