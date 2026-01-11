@@ -1,66 +1,64 @@
-<div align="center">
-  <h1>Khalil Wesam</h1>
- 
-  <p>
-    <strong>Full Stack Developer & Multi-Platform Creator</strong> • 8+ years of experience
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Saudi%20Arabia-🇸🇦-1976D2?style=flat&logo=google-maps&logoColor=white" alt="Location" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Frontend-React・Next.js・TS-61DAFB?style=flat&logo=react&logoColor=white" alt="Frontend" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/WordPress・WooCommerce-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
-  </p>
-</div>
-
----
-
-### About
-Passionate full-stack developer with more than 8 years of hands-on experience building modern web applications, custom WordPress/WooCommerce solutions, performant backend systems, cross-platform mobile apps, games, and creative content pipelines.  
-Previously: [@i5z1a](https://github.com/i5z1a)  
-Focused on: clean code · performance · maintainable architecture · great user experience
-
-### Tech Stack
-
-#### 🌐 Web & General Programming
+<h1 align="center">Khalil Wesam</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,wordpress,mysql,postgres,mongodb,git,github,vscode,figma&perline=9" alt="Web & General"/>
-  </a>
+  <strong>Senior Full-Stack Developer & Multi-Platform Builder</strong><br>
+  8+ years of professional experience in software engineering
 </p>
 
-#### 📱 Mobile Development (Flutter - Swift - iOS)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,swift&perline=8" alt="Mobile"/>
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
-</p>
-
-#### 🎮 Game Engines
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal&perline=8" alt="Game Engines"/>
-  </a>
-</p>
-
-#### ✒️ Creative & 3D (Design - Animation - Video)
-<p align="center">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere"/>
-</p>
-
-#### ☁️ Cloud & DevOps
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker&perline=8" alt="Cloud & DevOps"/>
-  </a>
+  <img src="https://img.shields.io/badge/Based_in-Saudi_Arabia-198754?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-**Always learning!** 🚀
+## 👋 About Me
+Experienced software developer specializing in building scalable web applications, robust backend systems, cross-platform mobile apps, and interactive game experiences.  
+I focus on **clean architecture, performance optimization, and long-term maintainability**.
+
+- Former username: [@i5z1a](https://github.com/i5z1a)  
+- Interests: SaaS products, game development, system design  
+- Values: clean code · scalability · usability · performance
+
+---
+
+## 🧰 Technical Skills
+
+### Web & Software Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,wordpress,mysql,postgres,mongodb,git,github,vscode,figma&perline=9" />
+</p>
+
+---
+
+### Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift&perline=6" />
+</p>
+
+---
+
+### Game Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot&perline=6" />
+</p>
+
+---
+
+### Creative & Multimedia
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-Professional-F5792A?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-Advanced-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-Advanced-9999FF?style=flat&logo=adobepremierepro&logoColor=white" />
+</p>
+
+---
+
+### Cloud & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,docker&perline=6" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Always building. Always improving. 🚀</strong>
+</p>
