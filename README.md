@@ -24,7 +24,7 @@ I focus on **clean architecture, performance optimization, and long-term maintai
 
 ### Web & Software Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,wordpress,mysql,postgres,mongodb,git,github,postman,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,wordpress,mysql,postgres,mongodb,git,github,postman,figma,xd&perline=9" />
 </p>
 
 ---
