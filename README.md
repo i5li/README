@@ -1,4 +1,4 @@
-<h1 align="center">Khalil Wesam</h1>
+<h1 align="center">Khalil</h1>
 <p align="center">
   <strong>Senior Full-Stack Developer & Multi-Platform Builder</strong><br>
   8+ years of professional experience in software engineering
